@@ -1,6 +1,6 @@
 # Fidel Antonio Pena
 
-Bienvenido al repositorio del curso **SINT-741 — Curso Activadores** · Universidad Cenfotec.
+Bienvenido al repositorio del curso **SINT-741 - Curso Activadores** - Universidad Cenfotec.
 
 Esta es tu carpeta personal. Aqui subes todos tus trabajos y entregas del curso.
 
@@ -16,14 +16,14 @@ Esta es tu carpeta personal. Aqui subes todos tus trabajos y entregas del curso.
 
 ## Como subir mis trabajos
 
-Consulta la guia completa con imagenes en **5. Estudiantes/README.md**.
+Consulta la guia completa con imagenes en **4. Estudiantes/README.md**.
 
 ## Estructura sugerida
 
 ```
 fpena1703-bit/
-├── README.md
-├── lab-01/
-├── lab-02/
-└── proyecto-final/
++-- README.md
++-- lab-01/
++-- lab-02/
++-- proyecto-final/
 ```
